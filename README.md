@@ -1,6 +1,9 @@
 # DrRacket
+
 ### Some of my personal DrRacket projects that i've made in 2016
 Some of them are finished, some of them are not and some of them are commented some of them are not.
+
+
 
 - **Bounce:**
 It is basically the breakout game but i called it bounce just because i couldn't remember the actual name of the game when i was making this :D
@@ -25,3 +28,5 @@ This is a clone of space invaders game but with only blocks. I was planning to d
 
 - **The Ping Pong:**
 It's the classical pong game with cool shooting mechanics. I like this particular project a LOT because it is my first DrRacket game. I'm really happy about it :D 
+
+# __You can find the screenshots of the games in the Wiki Page!__ #
