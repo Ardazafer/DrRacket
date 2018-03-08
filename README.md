@@ -1,5 +1,6 @@
 # DrRacket
 ### Some of my personal DrRacket projects that i've made in 2016
+Some of them are finished, some of them are not and some of them are commented some of them are not.
 
 - **Bounce:**
 It is basically the breakout game but i called it bounce just because i couldn't remember the actual name of the game when i was making this :D
